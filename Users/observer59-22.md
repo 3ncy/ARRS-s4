@@ -9,32 +9,26 @@ Status: Deactivated<br>
 Description:<br>
 Main profile for ARRS terminal management.<br>
 <br>
-# # # # # # # # # # # #<br>
-<br>
 Notes:<br>
 <br>
-<br>
+
 ## notes
 - note_25.02.2023
 - note_1
 
-
 ### note_25.02.2023
-# # # # # #<br>
 As promised, I sent him my cats. Hope he gets it.<br>
-# # # # # #<br>
 <br>
 
 
 ### note_1
-# # # # # #<br>
 It seems that all parts of the password from the eleventh were sent a long time ago. But two of them dropped into other accounts because of the new security system. But I assume you got to them by now. And yes, that Mike guy recommends looking at the cats. Make sure you do that.<br>
 <br>
 Also, check this guy's files. He's got some useful information lurking around. I think people should know about it.<br>
 <br>
 mr.Kerman<br>
-# # # # # #<br>
 <br>
+
 ## files
 - ARRS_NODE_59-22_1_15.02.2023.log
 - ARRS_NODE_59-22_2_15.02.2023.log
