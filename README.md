@@ -17,3 +17,4 @@
 
 ## Hint from Stream
 - analyst23-2 was written on the whiteboard at 16:23 UTC+2
+- ~~GAME~~`OVERSEER_ _ _ _XX` `XX=11` was given at 0:00 UTC+2 - 23./24. 8.
