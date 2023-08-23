@@ -136,6 +136,9 @@ S8-340PiscAJajRL6jLkjltx7byjL0kqUATycEBJ1ICy9tYdKJ0LxbXzKWqlsMF3028E<br>
 15.02.2023 14:46:56 UTC +3 Error: Transmission Interrupted Part3: FYXS4LBOEI5HW7K4LQXCSKBMFQXA====<br>
 < - end of file -><br>
 
+> The MAC address is invalid, esp. "1o" and "3vf".<br>
+> Normal MAC addresses contain only hexadecimal digits and letters.
+
 ---
 Before, this account showed only this:
 > Authentication success<br>
