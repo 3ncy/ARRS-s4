@@ -9,4 +9,4 @@
 
 
 ## Found usernames without passwords
-- observer59-22 (from [note_17.02.2023](https://github.com/3ncy/ARRS-s4/blob/main/Users/observer17-9.md#note-note_17022023))
+- observer59-22 (from [observer17-9 → note_17.02.2023](https://github.com/3ncy/ARRS-s4/blob/main/Users/observer17-9.md#note-note_17022023))
