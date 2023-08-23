@@ -89,6 +89,8 @@ Name              Date          Mon           Year
 15.02.2023 14:25:55 UTC +3 LoginError: Critical Error Encoding Base 2352/21*2/6-5<br>
 < - end of file ->
 
+> 2352/21*2/6-5 calculates to 32.33... so the line likely talks about "Encoding Base 32"
+
 ### file ARRS_NODE_3-3_5_15.02.2023.log
 < - file ->
 15.02.2023 14:34:07 UTC +3 LoginError: Invalid password, Attempt: 1<br>
