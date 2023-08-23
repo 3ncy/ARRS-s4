@@ -24,6 +24,11 @@ Notes:<br>
     - Oh damn. You know how?
     - For observers and analysts, myself included, it used to be like this: "access level"+"day-month (with a dash, without 0) of employment date". Don't know about the new ones.
     - Mine is just random numbers. I couldn't really remember the login properly either way. Have to write it down on sticky notes. At least they don't fine us for leaked login, unlike for the password.
+    
+> Person 2 from both the notes is Analyst<br>
+> They got the job few days after 20th February (2)<br>
+> With the format of the names mentioned, the account name is `analyst23-2`
+
 ### note autosave_messages_21.02.2023
     - Hey. You have an analyst role, right? Can you give me access to one of your projects' analytics?
     - Are you out of your fucking mind? First of all, it's forbidden by the company contract, and secondly, it's simply not safe.
@@ -63,6 +68,9 @@ https://drive.google.com/drive/folders/1u1CqYOx48Ro5XUPyk3eYfSSkX4Atlznn?usp=sha
 > the [spectogram](https://github.com/3ncy/ARRS-s4/blob/main/Images/observer13-2/1.wav-spectogram.png) in 1.wav says `D22lk00`<br>
 > the [spectogram](https://github.com/3ncy/ARRS-s4/blob/main/Images/observer13-2/2.wav-spectogram.png) in 2.wav says `mzo13Hx`<br>
 > the audio in the file 3.wav says `2345843`<br>
+
+> BSG has given a hint "123 ⁓ ⁓" -> the numbers and then the two waveforms.<br>
+> -> password is `2345843mzo13HxD22lk00`
 
 ### file ARRS_NODE_17-9_1_15.02.2023.log
 < - file -><br>
