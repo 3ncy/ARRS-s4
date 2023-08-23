@@ -51,7 +51,7 @@ mr.Kerman
 
 ### file table_photo.txt
 [https://drive.google.com/drive/folders/1WcHHUyhK34uWFyS0ONfbjIr4khQUzoto?usp=share_link](https://drive.google.com/drive/folders/1WcHHUyhK34uWFyS0ONfbjIr4khQUzoto?usp=share_link)<br>
-> [Uploaded here on GitHub](../Images/observer17-9.md/login.jpg)
+> [Uploaded here on GitHub](../Images/observer17-9/login.jpg)
 
 
 ---
