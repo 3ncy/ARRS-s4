@@ -5,7 +5,7 @@
 |--------------------------------------------|-----------------------------|------------|---------------|--------------|
 | [defaultuser](./Users/defaultuser.md)      | 123456test                  | Active     | System user   | observer     |
 | [observer17-9](./Users/observer17-9.md)    | ytr654ewq321                | Active     | Swight        | observer     |
-| [observer13-2](./User/observer13-2.md)     | rel2asf32k59L               | ?          | ?             | ?            |
+| [observer13-2](./Users/observer13-2.md)     | rel2asf32k59L               | ?          | ?             | ?            |
 
 
 ## Found usernames without passwords
