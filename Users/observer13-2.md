@@ -60,8 +60,8 @@ Notes:<br>
 https://drive.google.com/drive/folders/1u1CqYOx48Ro5XUPyk3eYfSSkX4Atlznn?usp=share_link<br>
 < - end of file -><br>
 
-> the spectogram in 1.wav says `D22lk00`<br>
-> the spectogram in 2.wav says `mzo13Hx`<br>
+> the [spectogram](https://github.com/3ncy/ARRS-s4/blob/main/Images/observer13-2/1.wav-spectogram.png) in 1.wav says `D22lk00`<br>
+> the [spectogram](https://github.com/3ncy/ARRS-s4/blob/main/Images/observer13-2/2.wav-spectogram.png) in 2.wav says `mzo13Hx`<br>
 > the audio in the file 3.wav says `2345843`<br>
 
 ### file ARRS_NODE_17-9_1_15.02.2023.log
