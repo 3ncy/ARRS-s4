@@ -44,6 +44,8 @@ Name              Date          Mon           Year
 15  [Deleted]     [Del]         [Del]         [Del]
 ```
 
+> Mike's date of birth is the password for the account [observer59-22](./Users/observer59-22.md)
+
 ### file ARRS_NODE_3-3_1_15.02.2023.log
 < - file -><br>
 15.02.2023 13:06:27 UTC +3 LoginError: Invalid password, Attempt: 1<br>
