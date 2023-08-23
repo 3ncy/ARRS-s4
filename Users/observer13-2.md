@@ -59,6 +59,9 @@ Notes:<br>
 < - file -><br>
 https://drive.google.com/drive/folders/1u1CqYOx48Ro5XUPyk3eYfSSkX4Atlznn?usp=share_link<br>
 < - end of file -><br>
+
+> the audio in the file 3.wav says "2345843"
+
 ### file ARRS_NODE_17-9_1_15.02.2023.log
 < - file -><br>
 15.02.2023 13:05:57 UTC +3 LoginError: Invalid password, Attempt: 1<br>
