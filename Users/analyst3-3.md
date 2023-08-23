@@ -127,7 +127,7 @@ Name              Date          Mon           Year
 < - end of file -><br>
 
 > `FIUD6P2AEMTCIXRGIAQSUIZGPV6XY===` --base32--> `*(??@#&$^&@!*#&}}|`<br>
-> `IARSMJBKFBACGJRELYTEAIJKEMTCIXSAFEUCGKS6` --> produces gibberish <br>
+> `IARSMJBKFBACGJRELYTEAIJKEMTCIXSAFEUCGKS6` --base32--> `@#&$*(@#&$^&@!*#&$^@)(#*^`<br>
 > `LROFYXC4IZJVQRSWF4XS6LZP` --base32--> `\\\\\FSXFV/////`<br>
 
 ---
