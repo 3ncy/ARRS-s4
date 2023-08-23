@@ -68,6 +68,17 @@ Vi-e354ne-255R-ee    ENCD              Ln           CoLs         CoLf
 30  RSCSD            67!               65A          97e          28X           
 31  USNUU            xx                65A          97r          28X           
 ```
+> `ETX6V` from [observer59-22 logs](https://github.com/3ncy/ARRS-s4/blob/main/Users/observer59-22.md#arrs_node_59-22_6_15022023log)<br>
+> `DFGBB` from [observer13-2 logs](https://github.com/3ncy/ARRS-s4/blob/main/Users/observer13-2.md#file-arrs_node_17-9_6_15022023log)<br>
+> `FSXFV` from [analyst3-3 logs](https://github.com/3ncy/ARRS-s4/blob/main/Users/analyst3-3.md#file-arrs_node_3-3_6_15022023log)<br>
+> Ordered by the phrase `i_see_1your_pw_seer`, `i_see_2your_pw_seer` `i_see_3your_pw_seer` in each of the respective account. This makes it these three lines:<br>
+> - `3  ETX6V             32!               63r          97b          28X`<br>
+> - `7  DFGBB             38!               12b          97t          32X`<br>
+> - `28  FSXFV            22!               6vA          97q          28X`<br>
+> 
+> If we take only the "values" from the rows `32!63r97b28X`, `38!12b97t32X`, `22!6vA97q28X` and combine them<br>
+> -> we get a password for the next account [overseer11](https://github.com/3ncy/ARRS-s4/blob/main/Users/overseer11.md) `32!63r97b28X38!12b97t32X22!6vA97q28X`
+
 ### file new_text_document.text
 < - file -><br>
 1001101 1111001 100000 1100110 1110010 1101001 1100101 1101110 1100100 100000 1110110 1101001 1100111 1100101 1101110 11000011 10101000 1110010 1100101 100000 1110011 1100001 1111001 1110011 100000 1101000 1100101 1101100 1101100 1101111 100000 1110100 1101111 100000 1111001 1101111 1110101<br>
