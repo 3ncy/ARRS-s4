@@ -111,6 +111,9 @@ S8-340PiscAJajRL6jLkjltx7byjL0kqUATycEBJ1ICy9tYdKJ0LxbXzKWqlsMF3028E<br>
 15.02.2023 14:35:13 UTC +3 LoginError: Invalid password, Report to the admin immediately!<br>
 15.02.2023 14:35:15 UTC +3 LoginError: Critical Error Encoding Base 3600/24*2/4/5/3+1+58<br>
 < - end of file -><br>
+
+> 3600/24*2/4/5/3+1+58 calculates to 64, so the line likely talks about "Encoding Base 64"
+
 ### file ARRS_NODE_17-9_6_15.02.2023.log
 < - file -><br>
 15.02.2023 14:45:10 UTC +3 LoginError: Invalid password, Attempt: 1<br>
