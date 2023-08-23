@@ -126,7 +126,9 @@ Name              Date          Mon           Year
 15.02.2023 14:46:53 UTC +3 Error: Transmission Interrupted Part_3: LROFYXC4IZJVQRSWF4XS6LZP<br>
 < - end of file -><br>
 
-
+> `FIUD6P2AEMTCIXRGIAQSUIZGPV6XY===` --base32--> `*(??@#&$^&@!*#&}}|`<br>
+> `IARSMJBKFBACGJRELYTEAIJKEMTCIXSAFEUCGKS6` --> produces gibberish <br>
+> `LROFYXC4IZJVQRSWF4XS6LZP` --base32--> `\\\\\FSXFV/////`<br>
 
 ---
 
