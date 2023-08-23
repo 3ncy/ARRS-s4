@@ -73,10 +73,20 @@ Vi-e354ne-255R-ee    ENCD              Ln           CoLs         CoLf
 1001101 1111001 100000 1100110 1110010 1101001 1100101 1101110 1100100 100000 1110110 1101001 1100111 1100101 1101110 11000011 10101000 1110010 1100101 100000 1110011 1100001 1111001 1110011 100000 1101000 1100101 1101100 1101100 1101111 100000 1110100 1101111 100000 1111001 1101111 1110101<br>
 < - end of file -><br>
 
+Binary -> ASCII<br>
+My friend vigenère says hello to you
+
 ### file doctor.text
 < - file -><br>
 1100100 1100010 1100011 1100101 1101101 1101010 1110111 110011 101101 110011<br>
 < - end of file -><br>
+
+Binary -> ASCII<br>
+dbcemjw3-3
+
+dbcemjw3-3 -> Vigenere(DOCTOR) -> analyst3-3<br>
+
+Username: analyst3-3
 
 ### file ganymede.text
 ```
@@ -101,6 +111,10 @@ Vi-e354ne-255R-ee    ENCD              Ln           CoLs         CoLf
 
 < - end of file ->
 ```
+11vaFU0dH -> Vigenere(GANYMEDE) -> 11paSW0rD<br>
+
+Password: 11paSW0rD
+
 ---
 ### Previously the account was showing this information upon login:
 Authentication success<br>
