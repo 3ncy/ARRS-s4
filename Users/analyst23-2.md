@@ -81,6 +81,7 @@ Vi-e354ne-255R-ee    ENCD              Ln           CoLs         CoLf
 < - end of file -><br>
 
 > --binary--> dbcemjw3-3
+> --vigenere(doctor)--> analyst3-3
 
 ### file ganymede.text
 ```
@@ -105,6 +106,10 @@ Vi-e354ne-255R-ee    ENCD              Ln           CoLs         CoLf
 
 < - end of file ->
 ```
+
+> 11vaFU0dH --vigenere(ganymede)--> 11paSW0rD<br>
+> which is the password to analyst3-3
+
 ---
 ### Previously the account was showing this information upon login:
 Authentication success<br>
