@@ -31,6 +31,7 @@ They say someone tried to hack us today, like they did last year. But this time 
 Talked to the admin. They tried to hack one of our overseers. He's on vacation right now and they won't change his username yet. The account is dead anyway. But the login was cool. Something related to the fairy tale about the sea. Odysseus? The Old Man and the Sea? Nemo? "Sin" something? Whatever...<br>
 <br>
 
+> "Sin" something + Odyssea -> "sinbad" - the username
 
 ### note_16.02.2023
 User observer17-9 is complaining about espionage again. Need to move his messages straight to the trash bin.<br>
