@@ -62,7 +62,9 @@ mr.Kerman<br>
 15.02.2023 15:01:44 UTC +3 RemoteAccess: Сorrect password<br>
 15.02.2023 15:01:58 UTC +3 RemoteAccess: Successful connection<br>
 [ REMOTE ACCESS END ]<br>
-<br>
+<be>
+
+> 23-10 -> possible end of a login -> *something*23-10
 
 
 ### passwords.tb
@@ -89,4 +91,23 @@ mr.Kerman<br>
   17  [Deleted] 
   18  [Deleted]
 
+```
+
+> ROT9 (-17) - hint from [overseer11](./Users/overseer11.md)
+```
+  0   ytr654ewq321
+  1   4km34ml45c
+  2   rel2asf32k59L
+  3   erf45u(((((sdf2
+  4   11paSW0rD
+  5   32!63r97b28X38!12b97t32X22!6vA97q28X
+  6   4tg56yesdfv444
+  7   u923rj03d4kplsdf
+  8   Muasop2348sdYYD
+  9   njk34iuhcew834j
+  10   sdfj34ojcFF04lsdffD
+  11   u32r0lnatvtnmld4
+  12   mxwcbnn3r4qabmlMOM
+  13   JKAP%gf#ifKudO
+  14   2345843mzo13HxD22lk00
 ```
