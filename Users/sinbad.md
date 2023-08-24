@@ -93,7 +93,8 @@ mr.Kerman<br>
 
 ```
 
-> ROT9 (-17) - hint from [overseer11](./Users/overseer11.md)
+> ROT9 (-17) the whole table ↑↓ - hint from [overseer11's picture](https://github.com/3ncy/ARRS-s4/blob/main/Images/overseer11/andYou.jpg)
+
 ```
   0   ytr654ewq321                            -------- pwd for observer17-9
   1   4km34ml45c
