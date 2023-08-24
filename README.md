@@ -10,6 +10,7 @@
 | [analyst3-3](./Users/analyst3-3.md)        | 11paSW0rD                            | Active     | -             | analyst      | 20:00 CEST, 23.08. |
 | [observer59-22](./Users/observer59-22.md)  | 28111991                             | Deactivated| Mike Cranch   | observer     | 23:00 CEST, 23.08. |
 | [overseer11](./Users/overseer11.md)        | 32!63r97b28X38!12b97t32X22!6vA97q28X | Active     | Deleted       | overseer     | 02:00 CEST, 24.08. |
+| [sinbad](./Users/sinbad.md)                | JKAP%gf#ifKudO                       |            |               |              | 05:00 CEST, 24.08. |
 
 
 ## Found usernames without passwords
