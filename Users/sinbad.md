@@ -25,8 +25,8 @@ i1vs5tMs6PpfOWsCf613QfrcUX4wkIO7MURVt8hO<br>
 
 ### note_1
 [deleted] might disappoint us. We need to deactivate his account.<br>
-<br>
-
+<be>
+> the next username is literally "deleted"
 
 ### note_2
 I obtained a database of all the encrypted passwords for the superiors and uploaded them to an offline drive. Some passwords I couldn't download.<br>
@@ -111,3 +111,6 @@ mr.Kerman<br>
   13   JKAP%gf#ifKudO                         -------- pwd for sinbad
   14   2345843mzo13HxD22lk00                  -------- pwd for analyst23-2
 ```
+
+> the 10th password "sdfj34ojcFF04lsdffD" is password for "deleted"
+> found with bruteforce
