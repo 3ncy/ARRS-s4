@@ -76,6 +76,16 @@ mr.Kerman<br>
 
 > password was guessed based on note_3: "the word "password" + six consecutive digits" -> `password567890`<br>
 > [__extracted here__](https://github.com/3ncy/ARRS-s4/tree/main/Images/overseer11/archive)
+>
+> open images with notepad and find --pw-- at bootom
+> 
+> 1.jpg -> JKAP
+> 
+> 3.jpg -> %gf#if
+> 
+> 5.jpg -> KudO
+>
+> combine these and you get "JKAP%gf#ifKudO" -> password for "sinbad"
 
 ### draft.pic
 < - file -><br>
