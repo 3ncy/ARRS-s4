@@ -95,11 +95,11 @@ mr.Kerman<br>
 
 > ROT9 (-17) - hint from [overseer11](./Users/overseer11.md)
 ```
-  0   ytr654ewq321
+  0   ytr654ewq321                            -------- pwd for observer17-9
   1   4km34ml45c
-  2   rel2asf32k59L
+  2   rel2asf32k59L                           -------- pwd for observer13-2
   3   erf45u(((((sdf2
-  4   11paSW0rD
+  4   11paSW0rD                               -------- pwd for analyst3-3
   5   32!63r97b28X38!12b97t32X22!6vA97q28X    -------- pwd for overseer11
   6   4tg56yesdfv444
   7   u923rj03d4kplsdf
@@ -109,5 +109,5 @@ mr.Kerman<br>
   11   u32r0lnatvtnmld4
   12   mxwcbnn3r4qabmlMOM
   13   JKAP%gf#ifKudO                         -------- pwd for sinbad
-  14   2345843mzo13HxD22lk00
+  14   2345843mzo13HxD22lk00                  -------- pwd for analyst23-2
 ```
